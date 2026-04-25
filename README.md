@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Hanna Malureanu 👋
 
-<!--
-**hannamalureanu/hannamalureanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student passionate about technology, knowledge, wellness
+🔭 I’m currently working on a tech start-up within Innovation Labs
+🌱 I’m currently studying at the National University of Science and Technology POLITEHNICA, Bucharest 
+📫 How to reach me: [LinkedIn] (www.linkedin.com/in/hanna-ioana-malureanu-ghita-27ba88341)
+😄 Pronouns: she/her
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: Java, Python, C++
+- Tools: VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Badge-uri
+![CCNA1](https://www.credly.com/badges/d63bf740-4e60-46b3-a303-cf0e2d14e962)
+![CCNA2](https://www.credly.com/badges/2d1fb656-43f3-43d8-aa34-1b21a6c08f96)
+![IC3](https://www.credly.com/badges/11fec669-4ba6-4b32-ae55-ce864d15ab22)
