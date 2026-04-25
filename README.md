@@ -11,6 +11,6 @@
 - Tools: VS Code
 
 ## Badge-uri
-![CCNA1](https://www.credly.com/badges/d63bf740-4e60-46b3-a303-cf0e2d14e962)
-![CCNA2](https://www.credly.com/badges/2d1fb656-43f3-43d8-aa34-1b21a6c08f96)
-![IC3](https://www.credly.com/badges/11fec669-4ba6-4b32-ae55-ce864d15ab22)
+[CCNA1](https://www.credly.com/badges/d63bf740-4e60-46b3-a303-cf0e2d14e962)
+[CCNA2](https://www.credly.com/badges/2d1fb656-43f3-43d8-aa34-1b21a6c08f96)
+[IC3](https://www.credly.com/badges/11fec669-4ba6-4b32-ae55-ce864d15ab22)
