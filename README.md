@@ -1,7 +1,6 @@
 ## Hi, I'm Hanna Malureanu 👋
 
 💻 Student passionate about technology, knowledge, wellness
-🔭 I’m currently working on a tech start-up within Innovation Labs
 🌱 I’m currently studying at the National University of Science and Technology POLITEHNICA, Bucharest 
 📫 How to reach me: [LinkedIn] (www.linkedin.com/in/hanna-ioana-malureanu-ghita-27ba88341)
 😄 Pronouns: she/her
