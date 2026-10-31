@@ -19,3 +19,7 @@
 🔹 [Stripe- HackItAll I 2025](https://github.com/Rogueonion23/Stripe-Hackathon)
 - teamwork
 - my role: frontend & backend
+
+🔹 [Safeland- Innovation Labs 2026](https://github.com/Sami111-Afk/DopamineHijack-v1.h.git)
+- teamwork
+- my role: product development, customer discovery, presentation
