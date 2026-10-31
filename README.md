@@ -6,7 +6,7 @@
 😄 Pronouns: she/her
 
 ## 🛠️ Tech Stack
-- Languages: Java, Python, C++, React
+- Languages: C, Java, Javascript, Python, React
 - Tools: VS Code
 
 ## Badge-uri
